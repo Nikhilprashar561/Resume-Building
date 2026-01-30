@@ -9,6 +9,9 @@ https://prasharnikhilresume.netlify.app
 
 ---
 
+![Project Logo](images/first.png)
+![Project Logo](images/second.png)
+
 ## Project Overview
 
 The goal of this project was to understand the basic structure of HTML.
